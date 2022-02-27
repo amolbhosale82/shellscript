@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "Hi Amol Bhosale"
+echo "Enter your name: "
+read name
+echo "Hi "
