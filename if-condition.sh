@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Enter any number"
+echo "Enter any number :"
 read num
 if [$num -lt 10]
 then
